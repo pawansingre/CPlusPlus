@@ -101,10 +101,10 @@ int main(){
             v1=multiplyVectors(v1, v2);
         }
         
-        for(int i=0;i<v1.size();i++) // work upto 32 so far fix it
+        for(int i=0;i<v1.size();i++) 
             cout<<v1[i];
         }
 	cout<<endl;
     return 0;
 }
-//0333147966386144929666651337523200000000
+
