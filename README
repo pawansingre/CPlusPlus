@@ -1,2 +1,5 @@
-// Pawan 
-In this repository i have stored few C++ codes that i have implemented and found intresting 
+
+In this repository i have stored few C++ codes that i have implemented and found intresting.
+
+factorialByVector.cpp :
+	This program can generate a factorial of very large number, i have tried various non-negative integer numbers so far, for now i do not know the upper bound.  
